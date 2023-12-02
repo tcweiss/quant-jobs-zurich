@@ -100,7 +100,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Rothschild](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Safra Sarasin](https://www.jsafrasarasin.ch/internet/ch/en/ch_index/about_j_safra_group/ch_jobs.htm)
 * [Sberbank](https://www.sberbank.ch/careers/vacant-positions)
-* [SNB](https://snb.ch/en/ifor/job/id/job_openings)
+* [SNB](https://careers.snb.ch/?locale=en_US)
 * [UBS](https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012#keyWordSearch=&locationSearch=Switzerland%20-%20Z%C3%BCrich)
 * [Vontobel](https://vontobel.wd3.myworkdayjobs.com/Vontobel_External_Career/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [ZKB](https://apply.refline.ch/792841/search.html)
